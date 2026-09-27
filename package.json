@@ -1,0 +1,7 @@
+{
+  "name": "kiki-lead-2026",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Site is prebuilt in dist/'"
+  }
+}
